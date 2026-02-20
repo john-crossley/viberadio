@@ -89,7 +89,7 @@ Signed and notarised for macOS. Drag to Applications, open, done.
 
 ## Built with
 
-[Tauri v2](https://v2.tauri.app) · Rust · [React 19](https://react.dev) · TypeScript · Tailwind CSS
+[Tauri v2](https://v2.tauri.app) · Rust 🦀 · [React 19](https://react.dev) · TypeScript · Tailwind CSS
 
 Audio streaming is handled by a native Rust engine ([rodio](https://github.com/RustAudio/rodio) + [stream-download](https://github.com/aschey/stream-download-rs)) rather than a browser audio element, keeping resource usage minimal.
 
